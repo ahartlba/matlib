@@ -1,3 +1,3 @@
-# matlib
+# Matlib
 
-matlab utility-functions
+Matlab utility-functions
