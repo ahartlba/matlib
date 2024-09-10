@@ -1,3 +1,3 @@
 # Matlib
 
-Matlab utility-functions
+A collection of different matlab utility functions i use for convenience
